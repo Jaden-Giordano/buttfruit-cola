@@ -4,13 +4,14 @@
 </div>
 
 <div align="center">
-	<em>Flex the butt ~ Juice the Fruit</em>
+	<em>Flex the butt ~ Juice the Fruit</em><br />
+	Temporary home for website: http://buttfruit.forester.io
 </div>
 
 ## Contributing
 
 1. Fork/Clone the repo.
-2. Make changes.
-3. Flex the butt (Make a PR).
+2. Flex the butt (Make changes).
+3. Juice the fruit (Make a PR).
 
 Also, feel free to create an issue to suggest changes.
